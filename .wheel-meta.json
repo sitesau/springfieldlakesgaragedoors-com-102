@@ -1,0 +1,22 @@
+{
+  "wheel_id": 603,
+  "structure": "umbrella",
+  "slug": "springfieldlakesgaragedoors-com-102",
+  "project": "garage-door-repairs-springfield-lakes-planning-guide-14ea1026c1",
+  "parent_t1_ref": "springfieldlakesgaragedoors-com-150",
+  "node_role": "feeder",
+  "money_target": "springfieldlakesgaragedoors.com.au",
+  "primary_kw": "garage door repairs springfield lakes planning guide",
+  "intended_url": "https://sitesau.github.io/springfieldlakesgaragedoors-com-102/",
+  "tier": "T2",
+  "writeback_nonce": "3c4ec633f7b3e833",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/garage-door-repairs-springfield-lakes-faq-51d1803fc189d637abb48/",
+      "anchor": "a guide to garage door repairs springfield lakes faq",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
